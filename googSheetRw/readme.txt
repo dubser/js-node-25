@@ -1,3 +1,7 @@
+Le fichier credentials.json doit contenant les credentials doit etre
+ajouté manuellement dans le répertoire googSheetRw.isponible 
+Il est disponible dans le repo privé GitHub Jsdemo-PrivateRepo/tree/main/nodeGsheetRead
+
 Cette demo Gogle sheet Read/Write tirée de...
 https://developers.google.com/sheets/api/quickstart/nodejs?hl=fr
 Les instructions données dans cette page de Google Workspace peuvent
