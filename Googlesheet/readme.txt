@@ -1,3 +1,7 @@
+Le fichier prrivate.js contenant les credentials doit etre
+ajouté manuellement dans le répertoire Googsheet.
+Il est disponible dans le repo privé GitHub Jsdemo-PrivateRepo/tree/main/nodeGsheetRead
+
 Les boutons test.... ne servent pas.
 Le bouton Authorize permet une Authentification Google 
 interactive, à l'écran,afin de lire un fichier Xl logé sur un répertoire privé de
